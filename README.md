@@ -12,3 +12,5 @@ To auto launch the python script at startup, I simply added this line to the /et
 'sudo python3 /gpio-soundboard/soundfx/soundfx.py'
 
 The python script uses a button module to interface with the GPIO pins and map them to sound files.
+
+![Image of PiNoiseBox](https://github.com/jddemcher/PiNoiseBox/images/soundfx-box.jpg)
