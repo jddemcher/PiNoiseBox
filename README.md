@@ -5,6 +5,7 @@ This project is using python running on RaspberryPi to map sounds to buttons thr
 # Hardware & Parts List
 
 * Raspberry Pi Model 3 A or greater - [Link](https://vilros.com/collections/raspberry-pi-boards/products/raspberry-pi-model-3-a)
+* Pi GPIO Hat - [Link](https://www.amazon.com/gp/product/B07BF8Z3HS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Arcade buttons or momentary switches - [Link](https://www.amazon.com/gp/product/B01N5JRU2R/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 * 22AWG wire - [Link](https://www.amazon.com/gp/product/B00B4ZRPEY/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * (optional) LED - [Link](https://www.amazon.com/gp/product/B07G49PJLG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
