@@ -14,7 +14,7 @@ This project is using python running on RaspberryPi to map sounds to buttons thr
 * Speaker Cages - [Link](https://www.amazon.com/gp/product/B07XQ8LG7N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Speaker Kit - [Link](https://www.amazon.com/gp/product/B07CRVRG83/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 * Volume control knobs - [Link](https://www.amazon.com/gp/product/B0196J6TDC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
-* Lumber/Composite/Housing
+* Lumber/Composite/Housing - this is really up to the designer/maker
 
 # Software
 * Python 3
