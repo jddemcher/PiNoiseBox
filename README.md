@@ -1,6 +1,6 @@
 # PiNoiseBox
 
-This project is using python running on RaspberryPi to map sounds to buttons through the GPIO pins. The design chosen here is using 1/2" MDF board in the form of a small box, but the housing can really be designed in any shape or form that works best for the designer. Optional LED lights were added using the 5V circuit and wired to toggle switches. 
+This project is using python running on RaspberryPi to map sounds to buttons through the GPIO pins. The design chosen here is using 1/2" MDF board in the form of a small box, but the housing can really be designed in any shape or form that works best for the designer. Optional LED lights were added using the 5V circuit and wired to toggle switches. The excel document included helps with creating the lines of code used in the python script that map buttons to individual sound WAV files.
 
 # Hardware & Parts List
 
@@ -29,4 +29,4 @@ The python script uses a button module to interface with the GPIO pins and map t
 
  Here's a photo of the finished product:
  
-![Image of PiNoiseBox](https://github.com/jddemcher/PiNoiseBox/images/soundfx-box.jpg)
+![Image of PiNoiseBox](https://github.com/jddemcher/PiNoiseBox/blob/master/images/soundfx-box1.jpg)
