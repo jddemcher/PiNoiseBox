@@ -1,9 +1,9 @@
-import pygame
+import pygame.mixer
 from gpiozero import Button
 from time import sleep
 from sys import exit
 
-pygame.init()
+pygame.mixer.init()
 
 belle = pygame.mixer.Sound("/gpio-soundboard/disney/belle.wav")
 dream = pygame.mixer.Sound("/gpio-soundboard/disney/dream.wav")
@@ -57,13 +57,13 @@ btn12.when_pressed = queen.play
 btn13.when_pressed = riverbend.play
 btn16.when_pressed = shiny.play
 btn20.when_pressed = showyourself.play
-btn19.when_pressed = undersea.play
+btn19.when_pressed = pygame.mixer.stop
 btn26.when_pressed = unkown.play
 btn18.when_pressed = wind.play
 btn14.when_pressed = wish.play
-btn6.when_pressed = pygame.mixer.stop()
-btn4.when_pressed = pygame.mixer.stop()
-btn17.when_pressed = pygame.mixer.stop()
+btn6.when_pressed = pygame.mixer.stop
+btn4.when_pressed = undersea.play
+btn17.when_pressed = pygame.mixer.stop
 
 while True:
 	try:
